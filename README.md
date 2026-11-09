@@ -1,10 +1,11 @@
 # Pengukur-Badan-Simple
 Kalkulator berat badan ideal berbasis Python dengan fitur looping dan validasi input (error handling).
 
-# 🔎 Pengukur Berat Ideal Simple
+## 🎯 Kegunaan
+Membantu pengguna mengetahui berat badan ideal dan selisihnya dari berat saat ini, hanya dengan memasukkan tinggi dan berat badan.
 
-Pengukur Berat Ideal adalah aplikasi kalkulator sederhana berbasis bahasa python
-yang berfokus untuk menghitung berat ideal seseoang.
+## 🌐 English Summary
+A simple Python console tool that calculates ideal body weight from height and weight input, with input validation and repeat mode.
 
 ---
 
